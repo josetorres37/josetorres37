@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, eu sou o José Torres👋
 
-<!--
-**josetorres37/josetorres37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiário em Tecnologia**. Estou focado em aprender novas ferramentas, colaborar com a equipe e codificar programas utilizando técnicas de programação estruturada.
 
-Here are some ideas to get you started:
+- 🎓 Estudante focado em lógica de programação e desenvolvimento web.
+- 💡 Desenvolvendo projetos práticos com Python, HTML e CSS.
+- 🚀 Buscando evoluir profissionalmente no ambiente corporativo..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tecnologias e Habilidades
+<div id="tecnologias">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</div>
+
+## 📬 Vamos nos conectar?
+Fique à vontade para entrar em contato comigo através dos canais profissionais abaixo:
+
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/jose-flavio-torres-784934430)
+[![Gmail](https://shields.io)](mailto:jose.torres5@aluno.cps.sp.gov.br)
+
+---
+*Perfil criado como cartão de visitas digital para o ambiente de desenvolvimento corporativo.*
