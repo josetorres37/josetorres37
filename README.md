@@ -1,6 +1,6 @@
 ## Olá, eu sou o José Torres👋
 
-## 🚀 Sobre Mim
+## 🏅 Sobre Mim
 Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiário em Tecnologia**. Estou focado em aprender novas ferramentas, colaborar com a equipe e codificar programas utilizando técnicas de programação estruturada.
 
 - 🎓 Estudante focado em lógica de programação e desenvolvimento web.
