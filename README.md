@@ -1,12 +1,7 @@
 ## Olá, eu sou o José Torres👋
 
 ## 🏅 Sobre Mim
-Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiário em Tecnologia**. Estou focado em aprender novas ferramentas, colaborar com a equipe e codificar programas utilizando técnicas de programação estruturada.
-
-- 🎓 Estudante focado em lógica de programação e desenvolvimento web.
-- 💡 Desenvolvendo projetos práticos com Python, HTML e CSS.
-- 🚀 Buscando evoluir profissionalmente no ambiente corporativo.
-
+Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiário em Tecnologia** [conteúdo completo do Markdown disponível no histórico do chat].
 
 ## 🛠️ Tecnologias e Habilidades
 <div id="tecnologias">
@@ -16,7 +11,5 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 </div>
 
 ## 📬 Vamos nos conectar?
-Fique à vontade para entrar em contato comigo através dos canais profissionais abaixo:
-
 - [LinkedIn](https://linkedin.com)
 - [Gmail](mailto:jose.torres5@aluno.cps.sp.gov.br)
