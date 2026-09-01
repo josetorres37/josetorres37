@@ -5,7 +5,7 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 
 - 🎓 Estudante focado em lógica de programação e desenvolvimento web.
 - 💡 Desenvolvendo projetos práticos com Python, HTML e CSS.
-- 🚀 Buscando evoluir profissionalmente no ambiente corporativo..
+- 🚀 Buscando evoluir profissionalmente no ambiente corporativo.
 
 
 ## 🛠️ Tecnologias e Habilidades
@@ -18,8 +18,5 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 ## 📬 Vamos nos conectar?
 Fique à vontade para entrar em contato comigo através dos canais profissionais abaixo:
 
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/jose-flavio-torres-784934430)
-[![Gmail](https://shields.io)](mailto:jose.torres5@aluno.cps.sp.gov.br)
-
----
-*Perfil criado como cartão de visitas digital para o ambiente de desenvolvimento corporativo.*
+- [LinkedIn](https://linkedin.com)
+- [Gmail](mailto:jose.torres5@aluno.cps.sp.gov.br)
