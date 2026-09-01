@@ -10,9 +10,9 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 
 ## 🛠️ Tecnologias e Habilidades
 
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![Python](https://badgen.net)
+![HTML5](https://badgen.net)
+![CSS3](https://badgen.net)
 
 *Perfil criado como cartão de visitas digital para o ambiente de desenvolvimento corporativo.*
 
