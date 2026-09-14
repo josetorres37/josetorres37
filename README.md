@@ -11,17 +11,17 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 ## 🛠️ Tecnologias e Habilidades
 
 ### 🧠 Linguagens & Lógica
-*![Python](https://shields.io)
+* ![Python](https://shields.io)
 
 ### 🌐 Desenvolvimento Web (Frontend)
-*![HTML5](https://shields.io)
-*![CSS3](https://shields.io)
+* ![HTML5](https://shields.io)
+* ![CSS3](https://shields.io)
 
 ### ⚙️ Ferramentas & Produtividade
-*![VS Code](https://shields.io)
-*![Git](https://shields.io)
-*![GitHub](https://shields.io)
-*![Markdown](https://shields.io)
+* ![VS Code](https://shields.io)
+* ![Git](https://shields.io)
+* ![GitHub](https://shields.io)
+* ![Markdown](https://shields.io)
 <br />
 
 *Perfil criado como cartão de visitas digital para o ambiente de desenvolvimento corporativo.*
