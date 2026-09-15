@@ -14,8 +14,8 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🌐 Desenvolvimento Web (Frontend)
-* ![HTML5](https://shields.io)
-* ![CSS3](https://shields.io)
+* ![HTML5](https:https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white//shields.io)
+* ![CSS3]([https://shields.io](https://img.shields.io/badge/CSS-CSS3-blue?logo=css3))
 
 ### ⚙️ Ferramentas & Produtividade
 * ![VS Code](https://shields.io)
