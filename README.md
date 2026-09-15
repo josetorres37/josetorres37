@@ -20,7 +20,7 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 ### ⚙️ Ferramentas & Produtividade
 * ![VS Code](https://shields.io)
 * ![Git](https://shields.io)
-* ![GitHub](https://shields.io)
+* ![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)
 * ![Markdown](https://shields.io)
 <br />
 
