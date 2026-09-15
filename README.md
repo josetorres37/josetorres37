@@ -11,7 +11,7 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 ## 🛠️ Tecnologias e Habilidades
 
 ### 🧠 Linguagens & Lógica
-* ![Python](https://shields.io)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🌐 Desenvolvimento Web (Frontend)
 * ![HTML5](https://shields.io)
