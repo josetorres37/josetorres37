@@ -20,7 +20,7 @@ Seja bem-vindo ao meu perfil! Acabo de iniciar a minha jornada como **Estagiári
 
 ### ⚙️ Ferramentas & Produtividade
  
-* (![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 * ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
